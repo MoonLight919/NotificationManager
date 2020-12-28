@@ -1,0 +1,10 @@
+.switch{
+    height: 50px;
+}
+.switch label{
+    width: 300px !important;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

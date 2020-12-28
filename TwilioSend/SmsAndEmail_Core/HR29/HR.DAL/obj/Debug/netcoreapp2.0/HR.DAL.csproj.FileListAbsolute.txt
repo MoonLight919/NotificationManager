@@ -1,0 +1,34 @@
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.deps.json
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.dll
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.csproj.CoreCompileInputs.cache
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.AssemblyInfoInputs.cache
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.AssemblyInfo.cs
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.pdb
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.dll
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.pdb
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.deps.json
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.dll
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.pdb
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.csproj.CoreCompileInputs.cache
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.AssemblyInfoInputs.cache
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.AssemblyInfo.cs
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.dll
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.pdb
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.deps.json
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.dll
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.pdb
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.csprojAssemblyReference.cache
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.csproj.CoreCompileInputs.cache
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.AssemblyInfoInputs.cache
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.AssemblyInfo.cs
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.dll
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.pdb
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.deps.json
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.dll
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.DAL\bin\Debug\netcoreapp2.0\HR.DAL.pdb
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.csproj.CoreCompileInputs.cache
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.AssemblyInfoInputs.cache
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.AssemblyInfo.cs
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.dll
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.pdb
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.DAL\obj\Debug\netcoreapp2.0\HR.DAL.csprojAssemblyReference.cache

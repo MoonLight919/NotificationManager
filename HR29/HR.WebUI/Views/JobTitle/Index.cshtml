@@ -1,0 +1,41 @@
+﻿@model IEnumerable<HR.BLL.Models.JobTitleDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.JobTitleId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NameJobTitle)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.JobTitleId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameJobTitle)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.JobTitleId }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.JobTitleId }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.JobTitleId  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

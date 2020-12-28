@@ -1,0 +1,15 @@
+<div class="container">
+    <app-show-employees></app-show-employees>
+    <div class="row d-flex justify-content-center">
+        <div class="btn-group btn-group-toggle switch" data-toggle="buttons">
+            <label class="btn btn-info active d-flex" (click)="changeComponent(true)">
+                <input type="radio" name="options" id="option1" autocomplete="off" checked> Email
+            </label>
+            <label class="btn btn-info d-flex" (click)="changeComponent(false)">
+                <input type="radio" name="options" id="option2" autocomplete="off"> SMS
+            </label>
+        </div>
+    </div>
+    <app-send-email *ngIf="showEmail"></app-send-email>
+    <app-send-sms *ngIf="!showEmail"></app-send-sms>
+</div>

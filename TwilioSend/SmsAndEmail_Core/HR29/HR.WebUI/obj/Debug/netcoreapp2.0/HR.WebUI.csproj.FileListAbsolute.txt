@@ -1,0 +1,62 @@
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.deps.json
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.runtimeconfig.json
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.runtimeconfig.dev.json
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.dll
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.pdb
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csprojAssemblyReference.cache
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csproj.CoreCompileInputs.cache
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.AssemblyInfoInputs.cache
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.AssemblyInfo.cs
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.dll
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.pdb
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.DAL.dll
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.DAL.pdb
+C:\asp.net core 2019\Lesson 2 ijection config log\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csproj.CopyComplete
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.deps.json
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.runtimeconfig.json
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.runtimeconfig.dev.json
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.dll
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.pdb
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.BLL.dll
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.DAL.dll
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.BLL.pdb
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.DAL.pdb
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csprojAssemblyReference.cache
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csproj.CoreCompileInputs.cache
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.AssemblyInfoInputs.cache
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.AssemblyInfo.cs
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csproj.CopyComplete
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.dll
+C:\asp.net core 2019\Lesson 3 web api\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.pdb
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.deps.json
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.runtimeconfig.json
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.runtimeconfig.dev.json
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.dll
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.pdb
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.BLL.dll
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.DAL.dll
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.BLL.pdb
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.DAL.pdb
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csprojAssemblyReference.cache
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csproj.CoreCompileInputs.cache
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.AssemblyInfoInputs.cache
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.AssemblyInfo.cs
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csproj.CopyComplete
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.dll
+C:\asp.net core 2019\Lesson 3 web api\OnDisk\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.pdb
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.deps.json
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.runtimeconfig.json
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.runtimeconfig.dev.json
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.dll
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.WebUI.pdb
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.BLL.dll
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.DAL.dll
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.BLL.pdb
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\bin\Debug\netcoreapp2.0\HR.DAL.pdb
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csprojAssemblyReference.cache
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csproj.CoreCompileInputs.cache
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.AssemblyInfoInputs.cache
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.AssemblyInfo.cs
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.csproj.CopyComplete
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.dll
+H:\Lesson 3 IoC 3 tier webAPI\HR29\HR.WebUI\obj\Debug\netcoreapp2.0\HR.WebUI.pdb

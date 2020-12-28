@@ -1,0 +1,7 @@
+<div class="form-group" class="text">
+  <label for="exampleFormControlTextarea1">Message content</label>
+  <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" [(ngModel)]="messageText"></textarea>
+</div>
+<div class="d-flex justify-content-end">
+  <button type="button" class="btn btn-outline-light" id="sendButton" (click)="Post()">Send sms</button>
+</div>

@@ -1,0 +1,12 @@
+.text{
+    margin-top: 25px;
+}
+.text label{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+#sendButton{
+    width: 300px;
+    margin-top: 25px;
+}

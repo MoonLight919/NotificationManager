@@ -1,0 +1,38 @@
+<table class="table table-striped table-dark">
+  <thead>
+    <tr>
+      <th scope="col">SMS</th>
+      <th scope="col">Email</th>
+      <th scope="col">ID</th>
+      <th scope="col">First name</th>
+      <th scope="col">Last name</th>
+      <th scope="col">Birth date</th>
+      <th scope="col">INN</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of datasource.data; let i = index" [attr.data-index]="i">
+      <td>
+        <div class="form-check" *ngIf="item.email">
+          <input class="form-check-input" type="checkbox" [(ngModel)]="datasource.Sms[i]">
+        </div>
+        <div *ngIf="!item.email">
+          <p>Unavailible</p>
+        </div>
+      </td>
+      <td>
+        <div class="form-check" *ngIf="item.telephone">
+          <input class="form-check-input" type="checkbox" [(ngModel)]="datasource.Email[i]">
+        </div>
+        <div *ngIf="!item.telephone">
+          <p>Unavailible</p>
+        </div>
+      </td>
+      <td>{{item.employeeId}}</td>
+      <td>{{item.firstName}}</td>
+      <td>{{item.lastName}}</td>
+      <td>{{item.dateBirthday}}</td>
+      <td>{{item.inn}}</td>
+    </tr>
+  </tbody>
+</table>

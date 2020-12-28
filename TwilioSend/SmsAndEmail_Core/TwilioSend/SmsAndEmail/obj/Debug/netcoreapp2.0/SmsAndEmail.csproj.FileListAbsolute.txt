@@ -1,0 +1,32 @@
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.deps.json
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.runtimeconfig.json
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.runtimeconfig.dev.json
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.dll
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.pdb
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.csproj.CoreCompileInputs.cache
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.AssemblyInfoInputs.cache
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.AssemblyInfo.cs
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.dll
+C:\asp.net core 2019\Lesson 4 Twilio Send\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.pdb
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.deps.json
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.runtimeconfig.json
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.runtimeconfig.dev.json
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.dll
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.pdb
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.csprojAssemblyReference.cache
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.csproj.CoreCompileInputs.cache
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.AssemblyInfoInputs.cache
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.AssemblyInfo.cs
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.dll
+C:\asp.net core 2019\Lesson 4 Twilio Send\OnStudent\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.pdb
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.deps.json
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.runtimeconfig.json
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.runtimeconfig.dev.json
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.dll
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\bin\Debug\netcoreapp2.0\SmsAndEmail.pdb
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.csproj.CoreCompileInputs.cache
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.AssemblyInfoInputs.cache
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.AssemblyInfo.cs
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.dll
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.pdb
+H:\Lesson 4 SmsAndEmail\TwilioSend\SmsAndEmail\obj\Debug\netcoreapp2.0\SmsAndEmail.csprojAssemblyReference.cache
